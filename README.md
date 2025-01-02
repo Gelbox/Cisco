@@ -25,13 +25,14 @@ Requirements
     pip install paramiko
 
 File Structure
-.
+
 ├── pim_sparse_mode_config.py    # Main Python script
 ├── README.md                    # Documentation for the script
+
 Usage
 
     Clone this repository:
-    git clone https://github.com/<your-username>/<your-repo-name>.git
+    git clone https://github.com/Gelbox/Cisco.git
     cd <your-repo-name>
 
     Run the script:
