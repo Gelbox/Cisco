@@ -27,6 +27,7 @@ Requirements
 File Structure
 
 ├── pim_sparse_mode_config.py    # Main Python script
+
 ├── README.md                    # Documentation for the script
 
 Usage
